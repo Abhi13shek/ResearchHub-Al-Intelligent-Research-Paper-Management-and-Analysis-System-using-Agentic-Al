@@ -297,4 +297,4 @@ arXiv and PubMed for open access to research papers
 ⭐ Star History
 If you find this project helpful, please consider giving it a star! ⭐
 
-<div align="center"> <p>Built with ❤️ by researchers, for researchers</p> <p>© 2025 ResearchHub AI. All rights reserved.</p> </div>
+<div align="center"> <p>Built with ❤️ by researchers, for researchers</p> <p>© 2026 ResearchHub AI. All rights reserved.</p> </div>
